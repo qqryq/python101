@@ -1,4 +1,5 @@
-Szkolenia Python 101
+
+tojest testSzkolenia Python 101
 ====================
 
 Niniejsze materiały to dokumentacja i kody źródłowe do szkoleń z
